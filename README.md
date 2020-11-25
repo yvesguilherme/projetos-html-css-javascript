@@ -16,6 +16,10 @@
 
 <img alt="project2" title="#project2" src="git-files/project-2.PNG" width="450" height="250" />
 
+### :pushpin: Image Password Strength Effect
+
+<img alt="project3" title="#project3" src="git-files/project-3.PNG" width="450" height="350" />
+
 ---
 
 <p align="center">Desenvolvido por Yves Guilherme :rocket:</p>
